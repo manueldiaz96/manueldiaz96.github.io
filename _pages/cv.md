@@ -11,54 +11,97 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Master of Science in Grenoble (MoSIG)** - Specialty Graphics, Vision and Robotics (GVR) - Mention Bien
+  * Université Grenoble Alpes & Institut Polytechnique de Grenoble
+  * 2019-2020
 
-Work experience
+* **Bachelor's Degree in Mechatronics Engineering**
+  * Universidad Autónoma de Occidente, Cali, Colombia
+  * 2013-2019
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **June 2025 - Present: Research & Development Engineer**
+  * Inria Grenoble - CHROMA Team
+  * Working on collaborative project with Enchanted Tools to transfer social navigation technologies to the Mirokai robot platform under the ANR SolarNav Project
+  * Developing and optimizing models for social convention representation in robot navigation within hospital environments
+  * Responsibilities include human-aware path planning, leader following, proxemics modeling, software development in simulation and real-world testing
+  * Deployment on the Mirokai platform and validation in hospital settings (Station H, Lyon)
+  * Contributing to scientific publications and demonstrations
+  * Collaborating with Enchanted Tools engineers and the CHROMA research team
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **February 2021 - October 2024: Assistant Researcher (PhD Student)**
+  * Inria Grenoble - CHROMA Team
+  * Worked on AI-based Scene Understanding and Situation Awareness for Autonomous Vehicles
+  * Supervisors: Professor Olivier Simonin, Associate Professor Jilles Dibangoye, Dr. Christian Laugier
+  * Developed camera-based and sensor-fusion-based perception models for semantic scene parsing
+  * Conducted cross-dataset validation studies for perception models
+  * Published works in multiple robotics-related international conferences (ICRA, IROS, IV, ICARCV, COMPSAC)
+  * Project funded by European Project Cyber-Physical Systems for the European Union (CPS4EU) and Toyota Motor Europe (TME)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **November 2020 - January 2021: Junior Researcher (Relai These)**
+  * Inria Grenoble - CHROMA Team
+  * Continuation of Master thesis work as pre-doctorant
+  * Improved panoptic segmentation network by fully training semantic segmentation and object detection in parallel
+
+* **February 2020 - October 2020: Master Degree Internship**
+  * Inria Grenoble - CHROMA Team
+  * Developed YOLOv3-based panoptic segmentation network for autonomous vehicles
+  * Created parallel semantic and instance segmentation heads connected to Darknet-53 backbone
+  * Achieved near real-time inference at 10 FPS
+  * Supervisors: Dr. Ozgur Erkent, Dr. Christian Laugier
+
+Research Interests
+======
+* Computer Vision and Robotic Perception
+* Autonomous Vehicles
+* Robotics
+* Social Navigation
+* Semantic Scene Understanding
+* Sensor Fusion (LiDAR, Camera)
+* Deep Learning for Robotics
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**
+  * Python (Advanced)
+  * C++ (Intermediate)
+
+* **Machine Learning & Deep Learning**
+  * PyTorch
+  * TensorFlow
+  * Deep Learning architectures (YOLO, FPN, Transformers)
+  * Computer Vision algorithms
+
+* **Robotics & Perception**
+  * ROS (Robot Operating System)
+  * OpenCV
+  * Point Cloud Processing (PCL)
+  * LiDAR and Camera Sensor Fusion
+  * Semantic Segmentation
+  * Object Detection
+  * Panoptic Segmentation
+
+* **Development Tools**
+  * Git
+  * Linux/Bash
+  * Docker
+  * LaTeX
+  * Jupyter Notebooks
+
+* **CAD & Design**
+  * SolidWorks
+  * OnShape
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards & Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **2019**: IDEX Scholarship - Université Grenoble Alpes
+* **2018**: One of the best 2017 SABER Pro in Engineering - Colombia National Education Ministry
+* **2018**: Academic Excellence Best 2017 SABER Pro in Mechatronics Award - Autónoma de Occidente University
+* **2013-2018**: Academic Excellence Scholarship - Autónoma de Occidente University
